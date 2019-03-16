@@ -7,4 +7,4 @@ Download the PDF [Python overview](https://github.com/kirenz/first_steps_in_pyth
 2) [Check for missing values](https://github.com/kirenz/first_steps_in_python/blob/master/2_data_tidying_missing_values.ipynb) 
 3) [Change data type (level of measurment)](https://github.com/kirenz/first_steps_in_python/blob/master/3_level_of_measurement.ipynb)
 4) [Descriptive statistics](https://github.com/kirenz/first_steps_in_python/blob/master/4_descriptive_statistics.ipynb)
-5) [Overview about the whole data science programming process](https://github.com/kirenz/first_steps_in_python)
+5) [Overview about the data science programming process](https://github.com/kirenz/first_steps_in_python)
