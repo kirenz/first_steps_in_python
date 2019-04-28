@@ -4,3 +4,7 @@ channels:
 dependencies:
   - numpy
   - pandas
+  - pandas.api.types
+  - matplotlib.pyplot
+  - seaborn
+  - IPython.display
