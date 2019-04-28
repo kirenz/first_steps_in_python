@@ -1,4 +1,4 @@
-name: example-environment
+name: fsp-environment
 channels:
   - conda-forge
 dependencies:
