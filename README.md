@@ -10,6 +10,6 @@ Download the PDF [Python overview](https://github.com/kirenz/first_steps_in_pyth
 3) [Change data type (level of measurment)](https://github.com/kirenz/first_steps_in_python/blob/master/3_level_of_measurement.ipynb)
 4) [Descriptive statistics](https://github.com/kirenz/first_steps_in_python/blob/master/4_descriptive_statistics.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirenz/first_steps_in_python/blob/master/4_descriptive_statistics.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirenz/first_steps_in_python/blob/master/4_descriptive_statistics.ipynb)
 
 5) [Overview about the data science programming process](https://github.com/kirenz/first_steps_in_python)
