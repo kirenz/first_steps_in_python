@@ -1,3 +1,10 @@
+https://mybinder.org/v2/gh/Kirenz/first_steps_in_python/master
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kirenz/first_steps_in_python/master)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/Kirenz/first_steps_in_python/master
+
 # First Steps in Python
 
 Download the PDF [Python overview](https://github.com/kirenz/first_steps_in_python/blob/master/Python_overview.pdf) to get an overview about Python and a list of helpful resources (you need to download the file in order to use the embedded links).
