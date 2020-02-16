@@ -1,0 +1,10 @@
+name: fsp-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - pandas.api.types
+  - matplotlib.pyplot
+  - seaborn
+  - IPython.display
